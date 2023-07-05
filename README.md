@@ -1,5 +1,5 @@
-- 👋 Sup, I’m Rayoccc
-- 👀 I’m interested in Bot programation
+- 👋 Sup, I’m Rayoziny
+- 👀 I’m interested in Discord Bot programation
 - 🌱 I’m currently learning D.JS
 
 
